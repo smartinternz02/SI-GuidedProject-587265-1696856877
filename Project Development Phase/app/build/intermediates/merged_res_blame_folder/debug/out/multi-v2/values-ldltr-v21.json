@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myapp.moneytracker.app-mergeDebugResources-33:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rajat Kabra\\.gradle\\caches\\transforms-3\\b8a786383f2f7e47cad00ba86bd2976b\\transformed\\appcompat-1.4.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_account_balance_wallet_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_fragment_transaction.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\fragment_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_coins_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_coins_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_insertion.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_title_36.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_title_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_transaction_details.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_transaction_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_moneyout_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_moneyout_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_chart_text_selector.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\chart_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_bg_details_expense.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\bg_details_expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_title_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_title_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_lock_open_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_lock_open_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_transaction_list_item.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\transaction_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_mobile_login_amico.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_mobile_login_amico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.myapp.moneytracker.app-merged_res-35:/drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "com.myapp.moneytracker.app-main-37:/drawable/ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_forgot_password_amico.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_forgot_password_amico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_null_radio_button.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\null_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_calendar_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_calendar_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_no_data_amico.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_no_data_amico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_money_grey.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_money_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_chart_selector.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\chart_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_alternate_email_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_notes_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_notes_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_bg_details_income.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\bg_details_income.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_circle_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_bg_insert_expense.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\bg_insert_expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_format_list_bulleted_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_bg_transaction_fragment.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\bg_transaction_fragment.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_update_dialog.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_tv_skeleton_loading.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\tv_skeleton_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_bg_rounded_layout.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\bg_rounded_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_bg_insert_income.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\bg_insert_income.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_radio_text_selector.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\radio_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_moneyin_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_moneyin_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable-v24_blue_background.jpeg.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable-v24\\blue_background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_bg_rounded_amount.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\bg_rounded_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_format_list_bulleted_36.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_format_list_bulleted_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_radio_selected_expense.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\radio_selected_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_radio_not_selected.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\radio_not_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_rounded_transaction_fragment.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\rounded_transaction_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_shimmer_placeholder_layout.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\shimmer_placeholder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_radio_selected_income.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\radio_selected_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_chart_selected.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\chart_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_ic_calc_note_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\ic_calc_note_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\drawable_chart_not_selected.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\drawable\\chart_not_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-merged_res-35:\\layout_selected_spinner.xml.flat",
+        "source": "C:\\Users\\Rajat Kabra\\.gradle\\daemon\\7.5\\com.myapp.moneytracker.app-main-37:\\layout\\selected_spinner.xml"
+    }
+]
