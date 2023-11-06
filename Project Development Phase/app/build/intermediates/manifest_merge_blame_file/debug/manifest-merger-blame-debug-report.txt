@@ -1,0 +1,355 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.myapp.moneytracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+13-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:8:22-79
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:5-67
+14-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:25:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:5-79
+15-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:26:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:10:5-50:19
+21        android:allowBackup="true"
+21-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:11:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.7.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\fd82ae7da0720e5d4b748c8e6e6269e0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:12:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:13:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:14:9-43
+28        android:label="MoneyTracker"
+28-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:15:9-37
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:16:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:17:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.CatatUang" >
+32-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:18:9-47
+33        <activity
+33-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:20:9-23:52
+34            android:name="com.myapp.moneytracker.ForgotPassword"
+34-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:21:13-65
+35            android:exported="false"
+35-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:22:13-37
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:23:13-49
+37        <activity
+37-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:24:9-27:52
+38            android:name="com.myapp.moneytracker.TransactionDetails"
+38-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:25:13-69
+39            android:exported="false"
+39-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:26:13-37
+40            android:screenOrientation="portrait" />
+40-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:27:13-49
+41        <activity
+41-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:28:9-31:52
+42            android:name="com.myapp.moneytracker.InsertionActivity"
+42-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:29:13-68
+43            android:exported="false"
+43-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:30:13-37
+44            android:screenOrientation="portrait" />
+44-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:31:13-49
+45        <activity
+45-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:32:9-35:52
+46            android:name="com.myapp.moneytracker.MainActivity"
+46-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:33:13-63
+47            android:exported="false"
+47-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:34:13-37
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:35:13-49
+49        <activity
+49-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:36:9-39:52
+50            android:name="com.myapp.moneytracker.SignUp"
+50-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:37:13-57
+51            android:exported="false"
+51-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:38:13-37
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:39:13-49
+53        <activity
+53-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:40:9-49:20
+54            android:name="com.myapp.moneytracker.Login"
+54-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:41:13-56
+55            android:exported="true"
+55-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:42:13-36
+56            android:screenOrientation="portrait" >
+56-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:43:13-49
+57            <intent-filter>
+57-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:44:13-48:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:45:17-69
+58-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:45:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:47:17-77
+60-->C:\Users\Rajat Kabra\Downloads\SI-GuidedProject-525392-1688106488-master\SI-GuidedProject-525392-1688106488-master\app\src\main\AndroidManifest.xml:47:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <service
+64-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+65            android:name="com.google.firebase.components.ComponentDiscoveryService"
+65-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:12:13-84
+66            android:directBootAware="true"
+66-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+67            android:exported="false" >
+67-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:13:13-37
+68            <meta-data
+68-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+69                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+69-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4628c2eab790cc3da348b7d0cc9f28b2\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+71            <meta-data
+71-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\62248adc4c2f87770cd1b35d7fb4702f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+72                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+72-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\62248adc4c2f87770cd1b35d7fb4702f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\62248adc4c2f87770cd1b35d7fb4702f\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\32e005900eab9f74e5fe92100b46ea66\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+75                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+75-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\32e005900eab9f74e5fe92100b46ea66\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:12:17-116
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\32e005900eab9f74e5fe92100b46ea66\transformed\firebase-auth-ktx-22.0.0\AndroidManifest.xml:13:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31e28fbdf32dc37d0bcea10d2743f4f6\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+78                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+78-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31e28fbdf32dc37d0bcea10d2743f4f6\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31e28fbdf32dc37d0bcea10d2743f4f6\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+81                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+81-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\5671cb308b3377b0eb5577e9c0c13f38\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+84                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+84-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\5671cb308b3377b0eb5577e9c0c13f38\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\5671cb308b3377b0eb5577e9c0c13f38\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+86            <meta-data
+86-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+87                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+87-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\2ce822994db80dad0a4f8e2b071f382e\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31bf5627e24e5016ec2b09d8b7a359cf\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+90                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+90-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31bf5627e24e5016ec2b09d8b7a359cf\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\31bf5627e24e5016ec2b09d8b7a359cf\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+92        </service>
+93
+94        <activity
+94-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+95            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+95-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+96            android:excludeFromRecents="true"
+96-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+97            android:exported="true"
+97-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+98            android:launchMode="singleTask"
+98-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+99-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+100            <intent-filter>
+100-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+101                <action android:name="android.intent.action.VIEW" />
+101-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+101-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+102
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+103-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+104                <category android:name="android.intent.category.BROWSABLE" />
+104-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+104-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+105
+106                <data
+106-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+107                    android:host="firebase.auth"
+107-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+108                    android:path="/"
+108-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+109                    android:scheme="genericidp" />
+109-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+113            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+113-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+116            android:launchMode="singleTask"
+116-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+117-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+118            <intent-filter>
+118-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+119                <action android:name="android.intent.action.VIEW" />
+119-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:17-69
+119-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:36:25-66
+120
+121                <category android:name="android.intent.category.DEFAULT" />
+121-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:17-76
+121-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:38:27-73
+122                <category android:name="android.intent.category.BROWSABLE" />
+122-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:17-78
+122-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:39:27-75
+123
+124                <data
+124-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:41:17-44:51
+125                    android:host="firebase.auth"
+125-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:42:21-49
+126                    android:path="/"
+126-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:43:21-37
+127                    android:scheme="recaptcha" />
+127-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\6a5f38def4d126b7a3b64f9e54810f1e\transformed\firebase-auth-22.0.0\AndroidManifest.xml:44:21-48
+128            </intent-filter>
+129        </activity>
+130        <activity
+130-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:23:9-27:75
+131            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+131-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:24:13-93
+132            android:excludeFromRecents="true"
+132-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:25:13-46
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:26:13-37
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:27:13-72
+135        <!--
+136            Service handling Google Sign-In user revocation. For apps that do not integrate with
+137            Google Sign-In, this service will never be started.
+138        -->
+139        <service
+139-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:33:9-37:51
+140            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+140-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:34:13-89
+141            android:exported="true"
+141-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:35:13-36
+142            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+142-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:36:13-107
+143            android:visibleToInstantApps="true" />
+143-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\cee563d2ae4715326c9e7e84f96ecf8d\transformed\play-services-auth-20.2.0\AndroidManifest.xml:37:13-48
+144
+145        <provider
+145-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+146            android:name="com.google.firebase.provider.FirebaseInitProvider"
+146-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+147            android:authorities="com.myapp.moneytracker.firebaseinitprovider"
+147-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+148            android:directBootAware="true"
+148-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+149            android:exported="false"
+149-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+150            android:initOrder="100" />
+150-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\61290fe0fb1e990d466a47d52b986e5b\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+151
+152        <activity
+152-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\90da4bff55087e0087deb10974a802cd\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+153            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+153-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\90da4bff55087e0087deb10974a802cd\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\90da4bff55087e0087deb10974a802cd\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\90da4bff55087e0087deb10974a802cd\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+156
+157        <receiver
+157-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+158            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+158-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+159            android:enabled="true"
+159-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+160            android:exported="false" >
+160-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+161        </receiver>
+162
+163        <service
+163-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+164            android:name="com.google.android.gms.measurement.AppMeasurementService"
+164-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+165            android:enabled="true"
+165-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+166            android:exported="false" />
+166-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+167        <service
+167-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+168            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+168-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+169            android:enabled="true"
+169-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+171            android:permission="android.permission.BIND_JOB_SERVICE" />
+171-->[com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\f8ad01ae8ec34266d321b0ff539a854b\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+172
+173        <meta-data
+173-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4314787c7537ee611277e2dd45c0f765\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+174            android:name="com.google.android.gms.version"
+174-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4314787c7537ee611277e2dd45c0f765\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+175            android:value="@integer/google_play_services_version" />
+175-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\4314787c7537ee611277e2dd45c0f765\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+176
+177        <provider
+177-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+178            android:name="androidx.startup.InitializationProvider"
+178-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+179            android:authorities="com.myapp.moneytracker.androidx-startup"
+179-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+180            android:exported="false" >
+180-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+181            <meta-data
+181-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+182                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+182-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+183                android:value="androidx.startup" />
+183-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\a92a21e0fb38981542ab4bb05294e2d2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+184            <meta-data
+184-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\b933aa78063100ad783d4f5a30b6d774\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+185                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+185-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\b933aa78063100ad783d4f5a30b6d774\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+186                android:value="androidx.startup" />
+186-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Rajat Kabra\.gradle\caches\transforms-3\b933aa78063100ad783d4f5a30b6d774\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+187        </provider>
+188    </application>
+189
+190</manifest>
